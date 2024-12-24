@@ -2,18 +2,10 @@
 
 dont touch the code , if you wanna touching the code , after you having any errors idk how to solve <3
 
-
+Make sure your session id instagram was correct!
 
 ## 🚀 Features
-1. Stealth SYN Port Scan
-2. HTTP DoS Attack
-3. DNS Spoofing
-4. Reverse Shell
-5. Firewall Evasion
-6. Password Cracking with Hashcat
-7. Web Vulnerability Scanner
-8. WPA/WPA2 Wi-Fi Cracking
-9. Advanced MITM with HTTPS Decryption
+-Get information account instagram
 
 
 
